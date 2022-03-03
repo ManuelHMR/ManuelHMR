@@ -9,9 +9,9 @@ Co-founder and head of the legal department at Digitalize, a Brazilian-based sta
 </div>
 <h3>Skills</h3>
 <div align="center">
-  <a href="https://github.com/ManuelHMR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuelHMR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelHMR&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ManuelHMR&theme=tokyonight&show_icons=true&layout=default&langs_count=4" height="160px", width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelHMR&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true&cache_seconds=4600" height="160px", width="350px" />
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
