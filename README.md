@@ -1,6 +1,6 @@
 ## Hey, I'm ManuelHMR!
 
-Co-founder and head of the legal department at Digitalize, a Brazilian-based startup. A lawyer enthusiast about technology, innovation, and blockchain, Manuel Henrique graduated in Law at the Universidade Federal de Juiz de Fora followed by a tax and customs specialization at the Pontifícia Universidade Católica de Minas Gerais. His professional experience also covers internships at the Tribunal de Justiça de Minas Gerais and undergraduate research projects focused on personhood rights.
+I’m studying full-stack developement at Driven`s bootcamp.
 
 <h3>Social Media</h3> 
 <div> 
