@@ -8,8 +8,7 @@ I’m studying full-stack developement at Driven`s bootcamp.
   <a href="https://www.instagram.com/manuel.h.m.r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <h3>Skills</h3>
-<div align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=ManuelHMR&theme=dark&custom_title=Github Stats&include_all_commits=true&count_private=true&cache_seconds=4600" height="180px", width="400px" />
+<div >
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ManuelHMR&theme=dark&show_icons=true&layout=default&langs_count=4" height="180px", width="400px" />
 </div>
 <div style="display: inline_block"/> 
