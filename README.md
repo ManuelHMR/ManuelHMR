@@ -11,6 +11,7 @@ I’m studying full-stack developement at Driven`s bootcamp.
 <div >
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ManuelHMR&theme=dark&show_icons=true&layout=default&langs_count=4" height="180px", width="400px" />
 </div>
+<img align="center" alt="Wag-pic" height="50" style="border-radius:50px;" src="https://www.codewars.com/users/ManuelHMR/badges/large">
 <div style="display: inline_block"/> 
   <br>
   <img alt="React Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -21,6 +22,3 @@ I’m studying full-stack developement at Driven`s bootcamp.
   <img alt="HTML5 Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
-  
- 
-
