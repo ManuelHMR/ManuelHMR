@@ -1,6 +1,6 @@
 ## Hey, I'm ManuelHMR!
 
-I’m studying full-stack developement at Driven`s bootcamp.
+I`m studying full-stack developement at Driven`s bootcamp.
 
 <h3>Social Media</h3> 
 <div> 
