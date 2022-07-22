@@ -14,6 +14,7 @@
 <img align="center" alt="Wag-pic" height="50" style="border-radius:50px;" src="https://www.codewars.com/users/ManuelHMR/badges/large">
 <div style="display: inline_block"/> 
   <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  height="50" align="center" />
   <img alt="React Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="50" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" align="center" />
